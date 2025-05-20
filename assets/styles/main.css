@@ -15,3 +15,8 @@ button.subscribe {
   padding: 10px;
 }
 
+button.subscribe {
+  background: blue;
+  padding: 10px;
+}
+
