@@ -10,3 +10,8 @@
 .subscribe:hover {
   background-color: darkblue;
 }
+button.subscribe {
+  background: blue;
+  padding: 10px;
+}
+
