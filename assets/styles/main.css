@@ -1,1 +1,12 @@
 /* main.css base styles */
+
+/* Subscribe Button */
+.subscribe {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+.subscribe:hover {
+  background-color: darkblue;
+}
