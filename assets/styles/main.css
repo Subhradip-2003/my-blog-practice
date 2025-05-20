@@ -1,5 +1,11 @@
 /* main.css base styles */
 
+/* Dark Theme */
+body {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
 /* Subscribe Button */
 .subscribe {
   background-color: blue;
