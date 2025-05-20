@@ -1,0 +1,5 @@
+# Ignore system files and build artifacts
+*.log
+.DS_Store
+*.tmp
+build/
